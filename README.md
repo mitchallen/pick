@@ -13,7 +13,7 @@ $ go mod init example.com/my-demo
 Note that you need to include the **v** in the version tag.
 
 ```
-$ go get github.com/mitchallen/pick@v0.1.0
+$ go get github.com/mitchallen/pick@v0.2.0
 ```
 
 ### pick.One()
