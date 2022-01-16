@@ -22,8 +22,8 @@ $ go get github.com/mitchallen/pick@v0.1.0
 package main
 
 import (
-	"fmt"
-	"github.com/mitchallen/pick"
+    "fmt"
+    "github.com/mitchallen/pick"
 )
 
 func main() {
