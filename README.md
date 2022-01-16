@@ -28,7 +28,7 @@ import (
 
 func main() {
     list := []int{10, 20, 30}
-	fmt.Println(pick.OneInt(list))
+    fmt.Println(pick.OneInt(list))
 }
 ```
 
