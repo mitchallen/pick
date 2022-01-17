@@ -5,7 +5,7 @@
 Note that you need to include the **v** in the version tag.
 
 ```
-$ go get github.com/mitchallen/pick@v0.3.0
+$ go get github.com/mitchallen/pick@v0.4.0
 ```
 
 ### pick.One()
