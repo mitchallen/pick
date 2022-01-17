@@ -2,18 +2,10 @@
 
 ## Usage
 
-### Initialize your module
-
-```
-$ go mod init example.com/my-demo
-```
-
-### Get the module
-
 Note that you need to include the **v** in the version tag.
 
 ```
-$ go get github.com/mitchallen/pick@v0.2.0
+$ go get github.com/mitchallen/pick@v0.3.0
 ```
 
 ### pick.One()
